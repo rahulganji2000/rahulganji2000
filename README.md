@@ -36,8 +36,6 @@ I'm Rahul Ganji, a data scientist passionate about solving real-world problems t
 - [LinkedIn](https://linkedin.com/in/rahulganji)
 - Email: rahulganji62@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulganji2000&show_icons=true)
-
 
 <!--
 **rahulganji2000/rahulganji2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
