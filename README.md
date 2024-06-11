@@ -30,6 +30,7 @@ I'm Rahul Ganji, a data scientist passionate about solving real-world problems t
 ## Featured Projects
 - [Manhattan Housing Insights](https://github.com/rahulganji2000/Manhattan-Housing-Project)
 - [Enhancing Customer Experience and Operational Efficiency at British Airways](https://github.com/rahulganji2000/British-Airways)
+- [International Student Housing - Wichita](https://github.com/rahulganji2000/Wichita-International-Student-Housing)
 - [Humanoid Robot in Medical Diagnostics](https://github.com/rahulganji2000/Humanoid-Robot-in-Medical-Diagnostics)
 
 ## Contact Me
